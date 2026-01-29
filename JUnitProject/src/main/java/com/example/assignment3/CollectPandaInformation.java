@@ -10,12 +10,6 @@ public class CollectPandaInformation {
         Panda panda1 = new Panda("Robert", 3, true, 90);
         pandaList.add(panda1);
 
-//        PandaList.addPanda();
-//
-//        pandaList.add(PandaList.addPanda());
-
-
-
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter panda name");
         String name = input.nextLine();
@@ -37,5 +31,4 @@ public class CollectPandaInformation {
         System.out.println(pandaList);
         System.out.println(pandaList.size());
     }
-
 }

@@ -50,7 +50,6 @@ class PandaListTest {
 
         List<Panda> pandaList = new ArrayList<>();
 
-        //Assertions.assertEquals(true, PandaList.addPanda());
         Assertions.assertEquals(true, pandaList.add(PandaList.addPanda("Jack",1, false, 40.2)));
     }
 }
