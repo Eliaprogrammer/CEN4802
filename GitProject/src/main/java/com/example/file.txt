@@ -1,0 +1,5 @@
+I was task to write a Fibonacci Sequence program to get the nth (10)
+number in the sequence, then use the git version control features to
+comprehend how to use it and the importances. The Program
+was originally in this subdirectory but had to change to for the MavenProject
+to have access to it.

@@ -1,0 +1,27 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# InteilliJ IDE
+.idea/
+*.iml
+out/
+
+#Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+#OS
+.DS_Store
+Thumbs.db
+
+#Logs
+*.log
+
+#Compiled files
+*.class
