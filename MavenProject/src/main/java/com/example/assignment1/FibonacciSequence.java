@@ -1,5 +1,4 @@
 package com.example.assignment1;
-
 /**
  * An application to calculate the <code>n</code> th number in the <code>Fibonacci Sequence</code>
  *
